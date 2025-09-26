@@ -253,6 +253,3 @@ const sortArrayDescending = function(arr) {
     return arr.sort((a,b) => b-a);
 }   
 console.log(sortArrayDescending(unsortedArray));
-////////////////////////////////////
-// Find the Second Largest Number:
-// Use forEach to find the second largest number in an array.
